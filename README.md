@@ -4,7 +4,7 @@ It is a game that copies Subway Surfers
 **Caution: It's just a Unity and C# programming practice, I'm not going to make money from it. I just got the idea from Subway Surfers and let it be the reference**
 
 # How to Download/Install
-1. Downlaod the folder called "railroad_game" (Zip it)
+1. Download "railroad_game.zip" on "release"
 2. Unzip it
 3. Execute "railroad.exe"
 4. Here you go.
